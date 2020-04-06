@@ -1,5 +1,6 @@
 # TreePyKB
-Knowledge base editor
+Knowledge base editor.
+
 It can be used for https://github.com/vkopey/TreadsKB
 
 If you use TreePyKB please cite the following references in your work (books, articles, reports, etc.):
@@ -16,5 +17,5 @@ Requirements:
 5. junction.exe (http://technet.microsoft.com/en-us/sysinternals)
 Copy junction.exe to the application folder
 6. TtM, a TeX to MathML translator http://hutchinson.belmont.ma.us/tth/mml/
-Must be installed in в c:\\TtMdir\\ttm.exe
+Must be installed in c:\\TtMdir\\ttm.exe
 
